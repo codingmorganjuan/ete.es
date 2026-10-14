@@ -24,6 +24,7 @@ source,target,regex,code
 /calderas-electricas/calefaccion-naves-locales/,/productos/producto-calefaccion-naves-locales/,0,301
 /calderas-electricas/calefaccion-y-acs-viviendas/,/productos/producto-calefaccion-acs-viviendas/,0,301
 /calderas-industriales-2/,/divisiones/division-calderas-industriales/,0,301
+/contactoi,/contacto/,0,301
 /en/bakery/,/en/divisiones/equipment-for-bakeries-and-production-facilities/,0,301
 /en/bakery/electric-steam-boiler/,/en/productos/steam-generators/,0,301
 /en/bakery/equipment-for-fermentation-chamber/,/en/productos/proofing-chambers/,0,301
@@ -35,6 +36,7 @@ source,target,regex,code
 /en/bikram-hot-yoga/ventilation-and-air-quality/,/en/productos/ventilation-and-air-quality/,0,301
 /en/boiler-manufacturers/,/en/electric-boiler-manufacturers/,0,301
 /en/category/uncategorized/,/category/uncategorized/,0,301
+/en/contacto/,/en/contact/,0,301
 /en/electric-boilers/,/en/divisiones/custom-industrial-electric-boilers/,0,301
 /en/electric-boilers/custom-made-electric-boilers/,/en/productos/custom-boilers/,0,301
 /en/electric-boilers/heating-and-hot-water-for-homes/,/en/productos/heating-and-dhw-for-homes/,0,301
@@ -132,6 +134,7 @@ source,target,regex,code
 /ete-panaderia,/divisiones/division-panaderias/,0,301
 /ete-panaderia/,/divisiones/division-panaderias/,0,301
 /ete/balnearios,/divisiones/division-spa-balnearios/,0,301
+/newete/es/contacto,/contacto/,0,301
 /panaderias/,/divisiones/division-panaderias/,0,301
 /panaderias/climatizador-fermentacion/,/productos/producto-camara-fermentacion/,0,301
 /panaderias/limpia-vaporeras/,/productos/producto-generador-vapor-panaderia/,0,301
