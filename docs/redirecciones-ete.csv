@@ -14,6 +14,7 @@ source,target,regex,code
 /calderas,/divisiones/division-calderas-industriales/,0,301
 /calderas-electricas-2/,/divisiones/division-calderas-industriales/,0,301
 /calderas-electricas/,/divisiones/division-calderas-industriales/,0,301
+/calderas-electricas/acs-hoteles-gimnasios-y-comunidades-de-vecinos/,/divisiones/division-agua-caliente-acs/,0,301
 /calderas-electricas/acumulacion-de-calor/,/productos/producto-acumulacion-calor/,0,301
 /calderas-electricas/agua-caliente-peluquerias/,/productos/producto-agua-caliente-peluquerias/,0,301
 /calderas-electricas/caldera-aceite-300c/,/productos/producto-caldera-aceite-termico-350/,0,301
@@ -45,6 +46,7 @@ source,target,regex,code
 /en/electric-boilers/hot-boiler-water-210c/,/en/productos/superheated-water-at-210-c/,0,301
 /en/electric-boilers/hot-water-boiler-110c/,/en/productos/hot-water-at-110-c/,0,301
 /en/electric-boilers/hot-water-for-hairdressing/,/en/productos/hot-water-for-hair-salons/,0,301
+/en/electric-boilers/hot-water-hotels-gyms-residential-buildings/,/en/divisiones/industrial-hot-water-and-dhw/,0,301
 /en/electric-boilers/steam-boiler-210c/,/en/productos/steam-at-210-c/,0,301
 /en/electric-boilers/thermal-oil-boiler-300c/,/en/productos/thermal-oil-at-350-c/,0,301
 /en/hot-waters-generators/,/en/hot-water-generators/,0,301
