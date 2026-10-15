@@ -101,6 +101,7 @@ source,target,regex,code
 /en/spa-wellness/bithermal-jet-shower-essential-oil/,/en/productos/jet-shower-with-essential-oils/,0,301
 /en/spa-wellness/bithermal-oil-shower/,/en/productos/hot-and-cold-shower-with-essential-oils/,0,301
 /en/spa-wellness/bithermal-tunnel/,/en/productos/hot-and-cold-water-tunnel/,0,301
+/en/spa-wellness/circular-shower/,/en/productos/pre-treatment-shower/,0,301
 /en/spa-wellness/cold-water-etecooler/,/en/productos/etecooler-chiller/,0,301
 /en/spa-wellness/cold-water-tunnel/,/en/productos/cold-water-tunnel/,0,301
 /en/spa-wellness/compostela-pediluve/,/en/productos/compostela-footbath/,0,301
@@ -140,6 +141,7 @@ source,target,regex,code
 /ete-%20balnearios,/divisiones/division-spa-balnearios/,0,301
 /ete-balnearios,/divisiones/division-spa-balnearios/,0,301
 /ete-balnearios/es/duchas-bitermicas,/productos/producto-duchas-circuitos-contraste/,0,301
+/ete-balnearios/es/duchas-bitermicas/ducha-Circular-inox-metacrilato,/productos/producto-ducha-inicio/,0,301
 /ete-balnearios/es/duchas-bitermicas/ducha-bitermica-de-aceites-esenciales,/productos/producto-ducha-bitermica-aceites/,0,301
 /ete-balnearios/es/duchas-bitermicas/ducha-desinfeccion,/productos/producto-ducha-desinfeccion/,0,301
 /ete-balnearios/es/duchas-bitermicas/ducha-escocesa-bitermica,/productos/producto-ducha-escocesa-bitermica/,0,301
