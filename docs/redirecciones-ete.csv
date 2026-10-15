@@ -137,6 +137,11 @@ source,target,regex,code
 /en/tag/calderas-electricas/,/tag/calderas-electricas/,0,301
 /en/tag/cero-emisiones/,/tag/cero-emisiones/,0,301
 /en/technology/,/en/custom-electric-heating-technology/,0,301
+/en/technology/efficiency-and-decarbonisation/,/en/efficiency-and-decarbonisation/,0,301
+/en/technology/how-to-choose-the-right-boiler/,/en/how-to-choose-the-right-boiler/,0,301
+/en/technology/steam-vs-superheated-water-vs-thermal-oil/,/en/steam-vs-superheated-water-vs-thermal-oil/,0,301
+/en/technology/success-stories/,/en/success-stories/,0,301
+/en/technology/what-power-does-your-process-need/,/en/what-power-does-your-process-need/,0,301
 /en/thermal-oil-boilers-2/,/en/thermal-oil-boilers/,0,301
 /equipos-panaderias,/divisiones/division-panaderias/,0,301
 /equipos-panaderias/,/divisiones/division-panaderias/,0,301
@@ -190,6 +195,7 @@ source,target,regex,code
 /ete-panaderia,/divisiones/division-panaderias/,0,301
 /ete-panaderia/,/divisiones/division-panaderias/,0,301
 /ete/balnearios,/divisiones/division-spa-balnearios/,0,301
+/industrial-zero-carbon-boilers/,/en/industrial-zero-carbon-boilers/,0,301
 /mantenimiento-calderas-industriales/www.ete./contacto,/mantenimiento-calderas-industriales/,0,301
 /mantenimiento-calderas-industriales/www.ete.es/contacto,/mantenimiento-calderas-industriales/,0,301
 /newete/,/,0,301
