@@ -164,6 +164,7 @@ source,target,regex,code
 /ete-balnerios,/divisiones/division-spa-balnearios/,0,301
 /ete-calderas,/divisiones/division-calderas-industriales/,0,301
 /ete-calderas/,/divisiones/division-calderas-industriales/,0,301
+/ete-calderas/es/calderas-para-calefaccion-y-acs,/productos/producto-calefaccion-acs-viviendas/,0,301
 /ete-calderas/es/calderas-para-la-industria,/divisiones/division-calderas-industriales/,0,301
 /ete-calderas/es/calderas-para-la-industria/,/divisiones/division-calderas-industriales/,0,301
 /ete-calderas/es/calderas-para-la-industria/acumulacion-de-calor-en-masa-liquida,/productos/producto-acumulacion-calor/,0,301
@@ -178,6 +179,7 @@ source,target,regex,code
 /ete/balnearios,/divisiones/division-spa-balnearios/,0,301
 /mantenimiento-calderas-industriales/www.ete./contacto,/,0,301
 /mantenimiento-calderas-industriales/www.ete.es/contacto,/,0,301
+/newete/,/,0,301
 /newete/es/contacto,/contacto/,0,301
 /panaderias/,/divisiones/division-panaderias/,0,301
 /panaderias/climatizador-fermentacion/,/productos/producto-camara-fermentacion/,0,301
