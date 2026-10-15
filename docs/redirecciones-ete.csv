@@ -57,6 +57,7 @@ source,target,regex,code
 /calderas-electricas/calefaccion-naves-locales/,/productos/producto-calefaccion-naves-locales/,0,301
 /calderas-electricas/calefaccion-y-acs-viviendas/,/productos/producto-calefaccion-acs-viviendas/,0,301
 /calderas-industriales-2/,/divisiones/division-calderas-industriales/,0,301
+/calderas-industriales/es/sectores-de-actividad/,/calderas-industriales/,0,301
 /category/balnearios/www.ete.es/contacto,/category/balnearios/,0,301
 /category/calderas-electricas/page/11/www.ete.es,/category/calderas-electricas/page/11/,0,301
 /category/calderas-electricas/page/7/www.ete./contacto,/category/calderas-electricas/page/7/,0,301
@@ -181,6 +182,7 @@ source,target,regex,code
 /ete-calderas/es/calderas-para-la-industria/caldera-agua-caliente-hasta-100,/productos/producto-caldera-agua-110/,0,301
 /ete-calderas/es/calderas-para-la-industria/caldera-de-aceite-termico-hasta-300,/productos/producto-caldera-aceite-termico-350/,0,301
 /ete-calderas/es/calderas-para-la-industria/caldera-de-agua-sobrecalentada-gps-hasta-200,/productos/producto-caldera-agua-210/,0,301
+/ete-calderas/es/calderas-para-la-industria/caldera-domestica-blancas,/calderas-industriales/,0,301
 /ete-calderas/es/calderas-para-la-industria/caldera-domestica-sol,https://cliente.morganmedia.es/ete/productos/producto-calefaccion-acs-viviendas/,0,301
 /ete-calderas/es/calderas-para-la-industria/caldera-vapor-hasta-180,/productos/producto-caldera-vapor-210/,0,301
 /ete-calderas/es/calderas-para-la-industria/equipos-de-agua-caliente-sanitaria,/divisiones/division-agua-caliente-acs/,0,301
